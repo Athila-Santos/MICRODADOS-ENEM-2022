@@ -4,13 +4,13 @@
  ## Visualização dos dados 
 
 <p float="left">
-  <img src="/path/to/hist_mean_public.png" width="100" />
-  <img src="/path/to/hist_mean_private.png" width="100" /> 
+  <img src="hist_mean_public.png" width="100" />
+  <img src="hist_mean_private.png" width="100" /> 
 </p>
 
 <p float="left">
-  <img src="/path/to/boxplot_mean_public.png" width="100" />
-  <img src="/path/to/boxplot_mean_private.png" width="100" /> 
+  <img src="boxplot_mean_public.png" width="100" />
+  <img src="boxplot_mean_private.png" width="100" /> 
 </p>
 
 O Python apresentou limitações na leitura dos microdados, o csv contém mais de 4 milhões de linhas. Posteriormente realizar um teste na linguagem Go, tem a fama de performar melhor.
