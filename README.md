@@ -2,7 +2,7 @@
  O projeto tem como objetivo a construção de modelos de machine learning utilizando microdados do Enem 2022.
 
 <p align= "center">
-**Visualização dos dados** 
+VISUALIZAÇÃO DE DADOS
 </p> 
 
 <p align="center">
