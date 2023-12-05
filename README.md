@@ -7,7 +7,9 @@
   <img src="hist_mean_public.png" width="500" />
   <img src="hist_mean_private.png" width="500" /> 
 </p>
-***
+
+___
+
 <p float="left">
   <img src="boxplot_mean_public.png" width="500" />
   <img src="boxplot_mean_private.png" width="500" /> 
