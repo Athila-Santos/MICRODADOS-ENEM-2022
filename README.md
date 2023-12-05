@@ -2,21 +2,19 @@
  O projeto tem como objetivo a construção de modelos de machine learning utilizando microdados do Enem 2022.
 
  ## Visualização dos dados 
-<center>
-<p float="left">
+
+<p align="center">
   <img src="hist_mean_public.png" width="400" />
   <img src="hist_mean_private.png" width="400" /> 
 </p>
-</center>
+
 
 ___
 
 
-<p float="left">
+<p align="center">
   <img src="boxplot_mean_public.png" width="280" />
-<center>
  <img src="boxplot_mean_private.png" width="280" /> 
-</center>
 </p>
 
 
